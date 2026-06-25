@@ -7,3 +7,4 @@ uvloop
 pilmoji
 orjson
 captcha
+cachetools
