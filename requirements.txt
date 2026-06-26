@@ -8,3 +8,5 @@ pilmoji
 orjson
 captcha
 cachetools
+pilmoji[async]
+aiohttp
