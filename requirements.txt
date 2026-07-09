@@ -1,8 +1,6 @@
 aiogram>=3.15.0
 aiosqlite>=0.20.0
 redis>=5.0.8
-matplotlib>=3.9.0
-Pillow-SIMD
 uvloop
 pilmoji
 orjson
