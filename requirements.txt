@@ -10,3 +10,4 @@ pilmoji[async]
 aiohttp
 numpy
 lmdb
+aiodns
