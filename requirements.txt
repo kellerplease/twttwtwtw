@@ -11,3 +11,4 @@ aiohttp
 numpy
 lmdb
 aiodns
+groq
