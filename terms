@@ -1,0 +1,87 @@
+Terms of Service
+
+Effective date: July 24, 2026
+
+These Terms of Service ("Terms") govern your access to and use of the Bot (the "ПоДвалита"), a third-party Telegram bot that provides group chat utilities including experience-point/leveling systems, user profiles and nicknames, quote-sticker generation, group moderation tools (such as CAPTCHA verification, muting, and raid protection), games, a love/compatibility calculator, currency conversion, and voice-message transcription. By adding the Bot to a Telegram group, or by interacting with the Bot in any chat, you agree to be bound by these Terms. If you do not agree, do not use the Bot.
+
+1. The Service
+
+The Bot is an independent, unofficial service that operates on the Telegram platform via Telegram's Bot API. It is not affiliated with, endorsed by, or operated by Telegram FZ-LLC or Telegram Messenger Inc. Use of the Bot is also subject to Telegram's own Terms of Service, which continue to apply in addition to these Terms.
+
+The Bot is developed and operated by an independent individual developer (the "Operator"). The Bot is provided free of charge, on an "as is" and "as available" basis, with no guarantee of uptime, accuracy, or continued availability.
+
+2. Eligibility
+
+You must be at least 13 years old, or the minimum age required by Telegram's own Terms of Service in your jurisdiction (whichever is higher), to use the Bot. If you are using the Bot within a group chat, you are responsible for ensuring your use complies with any age or membership requirements set by that group's administrators.
+
+3. Features and Functionality
+
+The Bot may offer the following categories of functionality, which may change over time without prior notice:
+
+-   Engagement and leveling: tracking of message activity to award experience points, ranks, and streaks within a chat.
+
+-   Profiles and identity: user profile cards, custom nicknames, and cached Telegram avatar images used for display purposes (e.g., quote stickers, profile cards).
+
+-   Quote stickers: generation of sticker images from quoted messages, which may incorporate the message text, the author's display name, and the author's avatar.
+
+-   Moderation tools: administrator-triggered commands such as /ban and /mute (and, in the future, a /warn warning system), message deletion, join-time CAPTCHA verification, and "raid protection" or "no-XP" modes for topics/chats.
+
+-   Social and game features: virtual "marriage" proposals between users, duels, reputation points, rock-paper-scissors, tic-tac-toe, minesweeper, and a love-compatibility calculator (for entertainment purposes only, with randomly or algorithmically generated results that have no factual basis).
+
+-   Utilities: currency conversion using third-party exchange-rate data, and voice-message transcription performed via a third-party AI transcription provider.
+
+Not all features may be available in every chat, and administrators of a given group may enable, disable, or restrict certain features.
+
+4. Acceptable Use
+
+When using the Bot, you agree that you will not:
+
+-   Use the Bot to violate any applicable law or regulation, or Telegram's own Terms of Service;
+
+-   Attempt to abuse, overload, reverse-engineer, or interfere with the Bot's infrastructure, including by flooding it with requests or attempting to bypass CAPTCHA, rate limits, or moderation controls;
+
+-   Use the Bot to harass, threaten, defame, or impersonate any person, including through the quote-sticker or nickname features;
+
+-   Upload, submit, or generate content through the Bot that is unlawful, infringing, hateful, sexually explicit involving minors, or otherwise harmful;
+
+-   Use any bug, exploit, or unintended behavior of the Bot to gain an unfair advantage (for example, in leveling, games, or moderation bypass), or to disrupt the experience of other users.
+
+Group administrators who use the Bot's moderation features are solely responsible for the moderation decisions they make using those tools (such as who is muted, banned, or granted rank). The Operator does not review or control individual moderation actions taken by group administrators.
+
+5. User Content
+
+The Bot processes content that you and other members send in a chat where the Bot is present — for example, message text (to detect commands, award XP, or transcribe voice notes), quoted messages (to generate quote stickers), and Telegram profile photos (to display avatars). You retain any rights you have in content you send. By using the Bot in a group, you acknowledge that your messages and profile information may be visible to, and processed by, the Bot as described in the Privacy Policy.
+
+You are solely responsible for any content you submit or generate through the Bot, including quote stickers, nicknames, and messages sent to the Bot's commands.
+
+6. Third-Party Services
+
+The Bot relies on third-party infrastructure and services to operate, including the Telegram Bot API, third-party AI/transcription providers for voice-message processing, and third-party currency exchange-rate providers. The Operator does not control these third parties and is not responsible for their availability, accuracy, or handling of data. Your use of features that rely on these services is also subject to the respective third party's own terms and policies.
+
+7. Availability and Changes
+
+The Operator may add, modify, suspend, or discontinue any feature of the Bot, in whole or in part, at any time and without prior notice. The Operator may also update these Terms from time to time. Continued use of the Bot after changes take effect constitutes acceptance of the revised Terms. Where changes are material, the Operator will make reasonable efforts to communicate them (for example, via a bot announcement), but is not obligated to provide individual notice.
+
+8. Data Retention and Deletion
+
+Certain data associated with your use of the Bot (such as cached avatars, nicknames, XP/rank records, and moderation history) is stored to provide the Bot's functionality, as described in the Privacy Policy. You may request deletion of your data by contacting the Operator using the details in Section 12.
+
+9. Disclaimer of Warranties
+
+THE BOT IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE BOT WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE. Features such as the love calculator, games, and randomly generated content are provided for entertainment purposes only and should not be relied upon for any serious decision.
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OPERATOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THE BOT — INCLUDING LOSSES RESULTING FROM MODERATION ACTIONS TAKEN BY GROUP ADMINISTRATORS, THIRD-PARTY SERVICE OUTAGES, OR INACCURACIES IN TRANSCRIPTION, CURRENCY CONVERSION, OR OTHER AUTOMATED FEATURES. Nothing in these Terms limits any liability that cannot be limited or excluded under applicable law.
+
+11. Termination
+
+The Operator may block, restrict, or terminate your access to the Bot's features, or remove the Bot from a group, at any time and for any reason, including violation of these Terms. Group administrators may also remove the Bot from their own group at any time.
+
+12. Contact
+
+For questions about these Terms, or to request deletion of your data, you can contact the Operator at: doppelgangus@tutanota.com
+
+13. Governing Terms
+
+These Terms constitute the entire agreement between you and the Operator regarding use of the Bot and supersede any prior agreements. If any provision of these Terms is found unenforceable, the remaining provisions will remain in full force and effect.
