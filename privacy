@@ -1,0 +1,101 @@
+Privacy Policy
+
+Effective date: July 24, 2026
+
+This Privacy Policy explains what information the Bot (the "ПоДвалита") collects when you interact with it on Telegram, how that information is used and stored, and what choices you have. The Bot is developed and operated by an independent individual developer (the "Operator"). This Policy is provided in addition to, and does not replace, Telegram's own Privacy Policy, which governs Telegram's handling of your data as the underlying messaging platform.
+
+1. Information We Collect
+
+The Bot only receives information that Telegram provides to it when you interact with the Bot directly (e.g., send it a command) or interact in a group chat where the Bot is present and active. Depending on which features are used, this may include:
+
+-   Telegram account identifiers: your numeric Telegram user ID, username, and first/last name, as provided by Telegram.
+
+-   Message content and metadata: the text of messages sent in chats where the Bot is active, to the extent needed to detect commands, calculate experience points (XP) and activity rankings, generate quote stickers from quoted messages, and (for voice messages you send) to transcribe speech to text.
+
+-   Profile photos: your current Telegram avatar may be downloaded and temporarily cached (for example, to render quote stickers or profile cards).
+
+-   Custom nicknames: any custom nickname you or a chat administrator sets for you within a chat via the Bot.
+
+-   Group-specific data: your rank, XP, streaks, marriage/relationship links to other users, reputation points, and moderation history (such as /mute, /ban, and, in the future, /warn actions issued through the Bot) within a given chat.
+
+-   Voice messages: audio you send as a Telegram voice message, when you use the transcription feature, is sent to a third-party AI transcription provider for processing.
+
+-   Technical data: minimal operational data such as chat IDs and timestamps needed to operate rate limiting, CAPTCHA verification, and anti-raid protections.
+
+The Bot does not have access to messages in chats where it is not present, does not have access to your Telegram phone number unless you choose to share it, and cannot read messages you send to other users or bots outside of chats where it is added.
+
+2. How We Use Information
+
+Information collected by the Bot is used solely to provide and maintain the Bot's functionality, including:
+
+-   Calculating and displaying XP, levels, ranks, and activity leaderboards within a chat;
+
+-   Generating profile cards, quote stickers, and other visual content that references your display name or avatar;
+
+-   Operating moderation and anti-abuse tools, including CAPTCHA verification for new members, the /ban and /mute commands (and, in the future, a /warn warning system), message deletion, and raid protection, at the direction of group administrators;
+
+-   Providing game and social features (e.g., duels, virtual "marriage," reputation, rock-paper-scissors, tic-tac-toe, minesweeper, love-compatibility calculator);
+
+-   Transcribing voice messages into text when you send a voice message, and converting currency amounts using third-party exchange-rate data;
+
+-   Maintaining the security, stability, and abuse-resistance of the Bot (e.g., rate limiting, CAPTCHA).
+
+We do not sell your information, and we do not use your data for advertising or for any purpose unrelated to operating the Bot's features described above.
+
+3. Storage and Retention
+
+Data is stored in a local database associated with the group(s) in which the Bot is used, and is generally retained only as long as needed to provide the relevant feature:
+
+-   Cached avatars are stored temporarily and automatically expire (typically within 24 hours), after which they are deleted and re-fetched from Telegram if needed again.
+
+-   XP, ranks, nicknames, and similar per-chat records are stored with an expiration/refresh mechanism and are periodically cleaned up when no longer active.
+
+-   Moderation history and other chat-specific records are retained for as long as the Bot remains active in that chat, to support ongoing moderation, or until deletion is requested.
+
+-   Voice message audio is not permanently stored by the Bot; it is held briefly in memory to be sent to the transcription provider and is not written to persistent storage by the Bot itself.
+
+If the Bot is removed from a group, or if you request deletion under Section 6, associated data will be deleted within a reasonable time, except where retention is required to comply with a legal obligation or resolve an active dispute.
+
+4. Third-Party Services
+
+To provide certain features, the Bot shares limited data with the following categories of third-party service providers, solely as necessary to deliver the relevant feature:
+
+-   Telegram (Telegram Bot API): all interactions with the Bot necessarily pass through Telegram's infrastructure, which has its own privacy practices.
+
+-   AI transcription provider: when you use voice-message transcription, the audio content of your voice message is transmitted to a third-party AI speech-to-text service for processing and is not used by that provider to build a profile about you beyond what is needed to return a transcription.
+
+-   Currency exchange-rate provider: when you use currency conversion, the Bot queries a third-party service for current exchange rates; no personal data is required for or sent with this request beyond the query itself.
+
+These third parties process data under their own privacy policies and terms, which we encourage you to review. The Operator is not responsible for the independent privacy practices of these third parties.
+
+5. Legal Basis for Processing (EEA/UK Users)
+
+If you are located in the European Economic Area or the United Kingdom, the Bot processes your personal data on the following legal bases under the General Data Protection Regulation (GDPR): (a) performance of a contract, where processing is necessary to provide the Bot's features you actively use (e.g., games, quote stickers, transcription); (b) legitimate interests, for operating anti-abuse, moderation, and security features, and for maintaining leaderboards/rankings within a chat you have joined; and (c) consent, where you voluntarily invoke an optional feature (such as sending a voice message for transcription).
+
+6. Your Rights
+
+Depending on your jurisdiction, you may have rights to access, correct, delete, or restrict the processing of your personal data, and to receive a copy of it in a portable format. Because the Bot has no separate account system outside of Telegram, most of these rights can be exercised as follows:
+
+-   You can leave a group at any time to stop the Bot from processing new messages from you in that group.
+
+-   You can request access to, or deletion of, the data the Bot holds about you (such as cached avatar, nickname, rank/XP records, or moderation history) by contacting the Operator using the details in Section 8.
+
+-   Where a group administrator has recorded moderation actions concerning you, deletion requests will be honored to the extent this does not compromise the safety or accountability of the group's moderation history.
+
+We will respond to verifiable requests within a reasonable timeframe. Because the Bot only knows you by your Telegram ID and username, we may ask you to confirm these details, or to contact us from a means that allows us to verify your identity, before acting on a request.
+
+7. Children's Privacy
+
+The Bot is not directed at children under 13, and we do not knowingly collect personal data from children under 13. If you believe a child has provided personal data to the Bot, please contact us using the details in Section 8 so we can delete it.
+
+8. Contact and Data Requests
+
+For any question about this Privacy Policy, or to exercise your data rights (including access or deletion requests), please contact the Operator at: doppelgangus@tutanota.com
+
+9. Security
+
+We take reasonable technical measures to protect the data the Bot processes, such as caching data with expiration limits and restricting stored data to what is needed for the Bot's features. However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the Bot's features or applicable law. Material changes will be indicated by an updated "Effective date" above. Continued use of the Bot after changes take effect constitutes acknowledgment of the revised Policy.
